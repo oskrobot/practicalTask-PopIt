@@ -8,3 +8,8 @@ This project :computer: is mostly developed in HTML, CSS and a few lines of JS, 
 
 > [!NOTE]
 > This is a practical task for the Kodland web tutor
+
+### Screenshots
+
+![PopIt1](https://github.com/user-attachments/assets/0b521e4f-05fa-42d9-85dc-9aea39f8c10a)
+
