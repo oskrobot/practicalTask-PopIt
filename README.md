@@ -11,5 +11,4 @@ This project :computer: is mostly developed in HTML, CSS and a few lines of JS, 
 
 ### Screenshots
 
-![PopIt1](https://github.com/user-attachments/assets/0e212012-4cc4-475e-8a9d-c59fef4ccc0c)
-
+![PopIt1](https://github.com/user-attachments/assets/0e212012-4cc4-475e-8a9d-c59fef4ccc0c)  ![PopIt2](https://github.com/user-attachments/assets/1ad33214-063e-49ba-84d6-143881ee8cdc)
