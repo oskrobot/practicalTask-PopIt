@@ -4,4 +4,5 @@ This project :computer: is mostly developed in HTML, CSS and a few lines of JS, 
 
 * Dropdown menu or burger-menu for mobile screens :iphone:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+![image](https://github.com/user-attachments/assets/20004800-30da-4f60-820b-74d7b8b641f2)
+
